@@ -1,12 +1,18 @@
 # Airline Mobile Application – Accessibility Case Study (Anonymized)
 
-This folder contains an anonymized accessibility evaluation case study
+This folder contains an accessibility evaluation case study
 created for portfolio demonstration purposes.
 
 ## Scope
 - Mobile application for an airline-style booking experience
 - WCAG 2.2 Level AA conformance evaluation
-- Keyboard, screen reader, and visual testing
+- Keyboard-only, screen reader, and visual testing covering critical user flows,
+  with emphasis on focus order and visibility, keyboard operability of menus,
+  forms, and custom components, screen reader structure and announcements
+  (landmarks, headings, names/roles/states, dynamic updates),
+  and visual requirements such as text and non-text contrast, focus indicators,
+  and layout reflow at increased zoom levels.
+
 
 ## Audience
 - **Stakeholders**: high-level risks and impact
@@ -15,6 +21,5 @@ created for portfolio demonstration purposes.
 ## Contents
 - `airline-mobile-app-accessibility-case-study.pdf`
 
-## Confidentiality
-All identifying details have been removed.  
-This case study is inspired by real-world professional experience.
+ 
+## This case study is inspired by real-world professional experience.
